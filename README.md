@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Mayank Mishra
-- 👀 I’m interested in Data Science, Machine Learning and Statistics
+- 👀 I’m interested in Data Science, Machine Learning and Statisitcs
 - 🌱 I’m currently learning Data Science
 - 📫 Reach me: mmishra1092@gmail.com
 <!--
